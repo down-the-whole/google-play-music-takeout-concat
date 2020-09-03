@@ -1,0 +1,15 @@
+{
+  "name": "google-play-music-takeout-concat",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node-script src/index.ts"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "glob": "^7.1.6",
+    "mkdirp": "^1.0.4",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
